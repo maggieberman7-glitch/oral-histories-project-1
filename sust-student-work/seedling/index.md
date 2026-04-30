@@ -1,5 +1,5 @@
 ---
-title: Seedling
+title: 
 author: Fred Gibbs
 layout: scrollstory
 date: 2025-07-21

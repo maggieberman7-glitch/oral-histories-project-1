@@ -1,11 +1,11 @@
 ---
-title: Sapling
-author: Fred Gibbs
+title: Mark Robertson of Loose Leaf Farm 
+author: Maggie Berman and Noah Lujan 
 layout: scrollstory
 date: 2025-07-21
 header-image: images/sapling-card.png
 thumbnail: images/sapling-card.png
-summary: Our Sapling essay uses a few more features than our Seed essay, including the simplest scrolly box.
+summary: The Oral History of Farmer Mark Robertson
 header-title:
 header-position: 0px
 toc-section: second
@@ -14,6 +14,8 @@ placename: Cuyahoga Valley National Park
 tags:
     - history
     - nature
+    - farming 
+    - oral histroy 
 ---
 
 # A Sapling Essay
