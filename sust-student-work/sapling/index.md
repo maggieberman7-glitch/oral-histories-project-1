@@ -20,7 +20,7 @@ tags:
 
 # Introdution of Mark Robertson 
 "My name is Mark Robertson. I'm 49 years old, and I've been farming in the North Valley for 10 years." 
-**What makes this a "Sapling" essay?** It includes everything from Seedling (headings, images, footnotes, pull quotes) plus immersive components: text overlaying background images, image carousels for comparisons, and more dynamic pacing. This is where ScrollStories start feeling cinematic.
+He is a veteran of the United States Navy, he has a varied background of experience in engineering to biology which a field that helps fuel his science-backed learning from soil health to regenerative processes. Mark and his wife, Sarah, are first-generation small farmers with two thriving spaces tucked away in Albuqerque's North Valley. For ten growing seasons, through a passionate focus on biodiversity and sustainable practices, they have produced high-quality produce for their CSA and market-based customers, and restaurant-based clientele such as Los Poblanos' Campo and Farm to Table. 
 
 The text below includes both explanations and filler content to show how these components work in practice.
 
